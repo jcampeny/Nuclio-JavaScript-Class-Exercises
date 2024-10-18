@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva `true` si todos los elementos del array `studentsArray` tienen más de 3 caracteres.
+En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva `true` si todos los elementos del array `studentsArray` tienen más de 3 carácteres.
 
 ## Pista
 
