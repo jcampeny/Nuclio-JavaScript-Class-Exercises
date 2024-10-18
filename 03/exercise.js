@@ -1,7 +1,6 @@
-const studentsArray =  ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronica'];
+const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronica'];
 
-// 👀 Edita la variable 'result' para que contenga la longitud de studentsArray
-// 👀 Recuerda que la longitud de un array es el número de elementos que contiene
+// 👀 Edita la variable 'result' para que contenga el segundo elemento de studentsArray.
 // 📝
 
 const result = 0;
