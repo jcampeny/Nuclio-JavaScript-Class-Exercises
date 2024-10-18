@@ -56,8 +56,8 @@ Here is an overview of the topics covered:
     - Adding new properties to objects
 
 Each exercise has a dedicated folder containing:
-- A `.js` file where you need to write your solution.
-- A `.spec.js` file that contains the tests for that exercise.
+- A `exercise.js` file where you need to write your solution.
+- A `exercise.spec.js` file that contains the tests for that exercise.
 - A `README.md` file that provides instructions and hints for each exercise.
 
 ## Technologies Used
