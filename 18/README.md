@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este ejercicio, debes modificar el archivo `exercise.js` para que solo se devuelvan los nombres del array `studentsArray` que tengan 5 caracteres o menos.
+En este ejercicio, debes modificar el archivo `exercise.js` para que solo se devuelvan los nombres del array `studentsArray` que tengan 5 carácteres o menos.
 
 ## Pista
 
