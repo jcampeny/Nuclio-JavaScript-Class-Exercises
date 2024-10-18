@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este ejercicio, deberás modificar el archivo `exercise_01.js` para que la variable `result` contenga un array con los nombres de los estudiantes en el orden correcto.
+En este ejercicio, deberás modificar el archivo `exercise.js` para que la variable `result` contenga un array con los nombres de los estudiantes en el orden correcto.
 
 El array debe contener los siguientes nombres:
 1. Luis
