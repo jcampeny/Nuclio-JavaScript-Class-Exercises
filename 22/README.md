@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva `true` si algún elemento del array `studentsArray` tiene más de 7 caracteres.
+En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva `true` si algún elemento del array `studentsArray` tiene más de 7 carácteres.
 
 ## Pista
 
