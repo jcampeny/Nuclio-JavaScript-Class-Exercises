@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva el primer elemento en el array `studentsArray` que tenga 5 caracteres (que es 'Mario').
+En este ejercicio, debes modificar el archivo `exercise.js` para que devuelva el primer elemento en el array `studentsArray` que tenga 5 carácteres (que es 'Mario').
 
 ## Pista
 
